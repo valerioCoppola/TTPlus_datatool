@@ -1,0 +1,107 @@
+2026-03-30 12:09:45  [INFO    ]  TTplus Data Tool v6.0 started.
+2026-03-30 12:09:55  [INFO    ]  Config loaded from C:/Users/valer/Desktop/Nature4.0/GIT_FOLDERS/TTPlus_datatool/data/cembra_ C1970065/config.json
+2026-03-30 12:09:59  [INFO    ]  ============================================================
+2026-03-30 12:09:59  [INFO    ]  Run started  |  site=Cembra OEMC  | probe=tree  | species=dluhosch_10-50
+2026-03-30 12:09:59  [INFO    ]  Period: 2020-05-01 00:00:00  →  2020-06-01 00:00:00  [Europe/Rome]
+2026-03-30 12:09:59  [INFO    ]  ============================================================
+2026-03-30 12:10:00  [INFO    ]  Server: loaded 10000 rows from http://naturetalkers.altervista.org/C1970065/ttcloud.txt
+2026-03-30 12:10:01  [INFO    ]  Server: loaded 10000 rows from http://ittn.altervista.org/C1970065/ttcloud.txt
+2026-03-30 12:10:01  [INFO    ]  Combined data: 20000 rows, 31 device ID(s).
+2026-03-30 12:10:01  [INFO    ]  Processing 4B (gateway) data …
+2026-03-30 12:10:01  [INFO    ]  4B: 0 rows, 0 device(s).
+2026-03-30 12:10:02  [INFO    ]  4B: CSV and plots saved.
+2026-03-30 12:10:02  [INFO    ]  Processing 45 (TT+3.1) data …
+2026-03-30 12:10:02  [WARNING ]  45: no device frames produced.
+2026-03-30 12:10:02  [INFO    ]  Processing 4D (TT+3.2) data …
+2026-03-30 12:10:02  [WARNING ]  4D: no device frames produced.
+2026-03-30 12:10:02  [INFO    ]  Processing 49 (spectrometer) data …
+2026-03-30 12:10:02  [WARNING ]  49: no device frames produced.
+2026-03-30 12:10:02  [INFO    ]  ============================================================
+2026-03-30 12:10:02  [INFO    ]  Run complete.
+2026-03-30 12:10:02  [INFO    ]  ============================================================
+2026-03-30 12:23:14  [INFO    ]  TTplus Data Tool v6.0 started.
+2026-03-30 12:23:24  [INFO    ]  Config loaded from C:/Users/valer/Desktop/Nature4.0/GIT_FOLDERS/TTPlus_datatool/data/cembra_ C1970065/config.json
+2026-03-30 12:23:25  [INFO    ]  ============================================================
+2026-03-30 12:23:25  [INFO    ]  Run started  |  site=Cembra OEMC  | probe=tree  | species=dluhosch_10-50
+2026-03-30 12:23:25  [INFO    ]  Period: 2020-05-01 00:00:00  →  2020-06-01 00:00:00  [Europe/Rome]
+2026-03-30 12:23:25  [INFO    ]  ============================================================
+2026-03-30 12:23:47  [INFO    ]  Server: loaded 407136 rows from http://naturetalkers.altervista.org/C1970065/ttcloud.txt
+2026-03-30 12:26:26  [INFO    ]  Server: loaded 2889844 rows from http://ittn.altervista.org/C1970065/ttcloud.txt
+2026-03-30 12:27:03  [INFO    ]  Combined data: 3296980 rows, 57 device ID(s).
+2026-03-30 12:27:04  [INFO    ]  Raw data timestamp range: 1970-01-01 → 2045-04-02
+2026-03-30 12:27:04  [INFO    ]  Device types in raw data: {'49': 1562807, '45': 925865, '4D': 599410, '4C': 121985, '4B': 63125, '59': 22398, '48': 1390}
+2026-03-30 12:27:05  [INFO    ]  Processing 4B (gateway) data …
+2026-03-30 12:27:05  [INFO    ]    4B actual date range in data: 2019-10-24 11:00:09  →  2026-03-30 12:00:00
+2026-03-30 12:27:05  [INFO    ]  4B: 748 rows, 1 device(s).
+2026-03-30 12:27:07  [INFO    ]  4B: CSV and plots saved.
+2026-03-30 12:27:07  [INFO    ]  Processing 45 (TT+3.1) data …
+2026-03-30 12:27:19  [INFO    ]    45 actual date range in data: 1970-01-01 01:00:58  →  2045-04-02 21:00:00
+2026-03-30 12:27:19  [INFO    ]    Device 218C0301 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0302 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0304 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0305 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0306 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0307 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0308 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0310 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0311 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0312 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0313 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0314 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0315 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0316 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0317 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0319 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0320 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 218C0321 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 21980642 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]    Device 22010003 (45): tree data processed.
+2026-03-30 12:27:19  [INFO    ]  45: finished – 14205 rows across 20 device(s).
+2026-03-30 12:27:23  [INFO    ]  45: CSV and plots saved.
+2026-03-30 12:27:23  [INFO    ]  Processing 4D (TT+3.2) data …
+2026-03-30 12:27:32  [INFO    ]    4D actual date range in data: 1970-01-01 01:01:15  →  2026-03-30 11:00:00
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020074 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020074 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020075 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020075 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020076 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020076 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020077 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020077 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020078 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020078 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020079 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:32  [INFO    ]    Device 52020079 (4D): tree data processed.
+2026-03-30 12:27:32  [DEBUG   ]    Device 52020080 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:33  [INFO    ]    Device 52020080 (4D): tree data processed.
+2026-03-30 12:27:33  [DEBUG   ]    Device 52020081 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:33  [INFO    ]    Device 52020081 (4D): tree data processed.
+2026-03-30 12:27:33  [DEBUG   ]    Device 52020085 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:33  [INFO    ]    Device 52020085 (4D): tree data processed.
+2026-03-30 12:27:33  [DEBUG   ]    Device 52020087 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:33  [INFO    ]    Device 52020087 (4D): tree data processed.
+2026-03-30 12:27:33  [DEBUG   ]    Device 52020088 (4D): background interp skipped – agg function failed [how->mean,dtype->object]
+2026-03-30 12:27:33  [INFO    ]    Device 52020088 (4D): tree data processed.
+2026-03-30 12:27:33  [INFO    ]  4D: finished – 3419 rows across 11 device(s).
+2026-03-30 12:27:34  [INFO    ]  4D: CSV and plots saved.
+2026-03-30 12:27:35  [INFO    ]  Processing 49 (spectrometer) data …
+2026-03-30 12:27:54  [INFO    ]    49 actual date range in data: 1970-01-01 01:00:58  →  2045-04-02 21:00:00
+2026-03-30 12:27:54  [INFO    ]    Device 21980642.0 (49): 74 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 22010003.0 (49): 11 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020074.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020075.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020076.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020077.0 (49): 37 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020078.0 (49): 35 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020079.0 (49): 37 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020080.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020081.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020085.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020087.0 (49): 36 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device 52020088.0 (49): 37 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]    Device nan (49): 1685 spectrometer rows.
+2026-03-30 12:27:54  [INFO    ]  49: finished – 2168 rows across 14 device(s).
+2026-03-30 12:27:55  [INFO    ]  49: CSV and plots saved.
+2026-03-30 12:27:55  [INFO    ]  ============================================================
+2026-03-30 12:27:55  [INFO    ]  Run complete.
+2026-03-30 12:27:55  [INFO    ]  ============================================================
